@@ -4,4 +4,3 @@ faster-whisper
 torch
 moviepy
 gunicorn
-sqlite3

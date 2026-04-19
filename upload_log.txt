@@ -1,0 +1,1023 @@
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_76b7b9d9-a824-4633-b237-8b5152d91d6d.mp4: name 'credentials' is not defined
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_76b7b9d9-a824-4633-b237-8b5152d91d6d.mp4: name 'credentials' is not defined
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_76b7b9d9-a824-4633-b237-8b5152d91d6d.mp4: name 'credentials' is not defined
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_bed4c826-f9c5-4e46-b9f6-0ffa2195b15a.mp4: name 'credentials' is not defined
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_bed4c826-f9c5-4e46-b9f6-0ffa2195b15a.mp4: name 'credentials' is not defined
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_bed4c826-f9c5-4e46-b9f6-0ffa2195b15a.mp4: name 'credentials' is not defined
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_1eff2490-685e-4877-bc1b-db661c93c41b.mp4: name 'credentials' is not defined
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_1eff2490-685e-4877-bc1b-db661c93c41b.mp4: name 'credentials' is not defined
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_1eff2490-685e-4877-bc1b-db661c93c41b.mp4: name 'credentials' is not defined
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_f8875acc-0aa0-439f-bc9b-f5cca5ca7d33.mp4: name 'credentials' is not defined
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_f8875acc-0aa0-439f-bc9b-f5cca5ca7d33.mp4: name 'credentials' is not defined
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_f8875acc-0aa0-439f-bc9b-f5cca5ca7d33.mp4: name 'credentials' is not defined
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_d78c4c7b-b1ba-41ce-8d86-62e6129d2f02.mp4: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_1227db02-1d81-4987-aade-effe459e204c.mp4: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_15cac401-98fa-4aa9-9500-7106a9165b25.mp4: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_68ab0faa-bc3c-4a6e-968d-bfda4c7ef01e.mp4: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_da3f4c4a-cc00-4fec-a042-58f53b994f87.mp4: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_d78c4c7b-b1ba-41ce-8d86-62e6129d2f02.mp4: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_1227db02-1d81-4987-aade-effe459e204c.mp4: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_68ab0faa-bc3c-4a6e-968d-bfda4c7ef01e.mp4: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_15cac401-98fa-4aa9-9500-7106a9165b25.mp4: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_68ab0faa-bc3c-4a6e-968d-bfda4c7ef01e.mp4: <HttpError 403 when requesting None returned "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.". Details: "[{'message': 'YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.', 'domain': 'usageLimits', 'reason': 'accessNotConfigured', 'extendedHelp': 'https://console.developers.google.com'}]">
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_cd9f1b22-d8b5-4160-bfc9-19a5ba62050f.mp4: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_0f8a3fd4-5b9f-4b73-be58-1ee3f7d2dd03.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_0f8a3fd4-5b9f-4b73-be58-1ee3f7d2dd03.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_0f8a3fd4-5b9f-4b73-be58-1ee3f7d2dd03.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_7d024225-9ee1-41b9-bf30-c03acfd37074.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: Instagram upload failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_0f8a3fd4-5b9f-4b73-be58-1ee3f7d2dd03.mp4: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_7d024225-9ee1-41b9-bf30-c03acfd37074.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_7d024225-9ee1-41b9-bf30-c03acfd37074.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: Instagram upload failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_7d024225-9ee1-41b9-bf30-c03acfd37074.mp4: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_7065f77d-bbe6-47d7-b564-176d9086ce2f.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_7065f77d-bbe6-47d7-b564-176d9086ce2f.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_7065f77d-bbe6-47d7-b564-176d9086ce2f.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: Instagram upload failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_7065f77d-bbe6-47d7-b564-176d9086ce2f.mp4: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_8f15d52c-b5b9-45c5-8237-51395fc01d2c.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_8f15d52c-b5b9-45c5-8237-51395fc01d2c.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_8f15d52c-b5b9-45c5-8237-51395fc01d2c.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: Instagram upload failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_8f15d52c-b5b9-45c5-8237-51395fc01d2c.mp4: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_b151a929-3c48-455a-820f-e2eb3653eb17.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_b151a929-3c48-455a-820f-e2eb3653eb17.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_b151a929-3c48-455a-820f-e2eb3653eb17.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_72887865-2431-4efe-ad65-f944f475de39.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_72887865-2431-4efe-ad65-f944f475de39.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_72887865-2431-4efe-ad65-f944f475de39.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: Instagram upload failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_72887865-2431-4efe-ad65-f944f475de39.mp4: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_020c5c18-8002-4b98-b28d-e88f8350ec76.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_020c5c18-8002-4b98-b28d-e88f8350ec76.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_020c5c18-8002-4b98-b28d-e88f8350ec76.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: Instagram upload failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_020c5c18-8002-4b98-b28d-e88f8350ec76.mp4: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_f7573319-0ef6-4530-830d-1facc5faa84d.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_f7573319-0ef6-4530-830d-1facc5faa84d.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_f7573319-0ef6-4530-830d-1facc5faa84d.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: Instagram upload failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_f7573319-0ef6-4530-830d-1facc5faa84d.mp4: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube attempt 1 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_926ae91f-6250-4240-95d7-f34db5d60c9b.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 2 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_926ae91f-6250-4240-95d7-f34db5d60c9b.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: YouTube attempt 3 failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_926ae91f-6250-4240-95d7-f34db5d60c9b.mp4: [SSL: INVALID_SESSION_ID] invalid session id (_ssl.c:1081)
+ERROR: Instagram upload failed for C:\Users\derka\Desktop\my_miner\static\reels\reel_926ae91f-6250-4240-95d7-f34db5d60c9b.mp4: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 403,
+    "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "youtube.googleapis.com",
+          "containerInfo": "519775601541",
+          "activationUrl": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541",
+          "consumer": "projects/519775601541",
+          "serviceTitle": "YouTube Data API v3"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 403,
+    "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541",
+          "service": "youtube.googleapis.com",
+          "serviceTitle": "YouTube Data API v3",
+          "consumer": "projects/519775601541",
+          "containerInfo": "519775601541"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 403,
+    "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "youtube.googleapis.com",
+          "serviceTitle": "YouTube Data API v3",
+          "consumer": "projects/519775601541",
+          "containerInfo": "519775601541",
+          "activationUrl": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 403,
+    "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "519775601541",
+          "activationUrl": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541",
+          "serviceTitle": "YouTube Data API v3",
+          "consumer": "projects/519775601541",
+          "service": "youtube.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 403,
+    "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "youtube.googleapis.com",
+          "consumer": "projects/519775601541",
+          "containerInfo": "519775601541",
+          "activationUrl": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541",
+          "serviceTitle": "YouTube Data API v3"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 403,
+    "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "serviceTitle": "YouTube Data API v3",
+          "activationUrl": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541",
+          "service": "youtube.googleapis.com",
+          "consumer": "projects/519775601541",
+          "containerInfo": "519775601541"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 403,
+    "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/519775601541",
+          "containerInfo": "519775601541",
+          "serviceTitle": "YouTube Data API v3",
+          "activationUrl": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541",
+          "service": "youtube.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 403,
+    "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/519775601541",
+          "activationUrl": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541",
+          "service": "youtube.googleapis.com",
+          "containerInfo": "519775601541",
+          "serviceTitle": "YouTube Data API v3"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 403,
+    "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "youtube.googleapis.com",
+          "serviceTitle": "YouTube Data API v3",
+          "consumer": "projects/519775601541",
+          "containerInfo": "519775601541",
+          "activationUrl": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 403,
+    "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/519775601541",
+          "activationUrl": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541",
+          "service": "youtube.googleapis.com",
+          "containerInfo": "519775601541",
+          "serviceTitle": "YouTube Data API v3"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "YouTube Data API v3 has not been used in project 519775601541 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=519775601541"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_7367bebb-38e9-49d7-a555-6d41b39f8caa.mp4 - https://youtu.be/FwfUi2Oi10k
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_486599d3-9612-4772-9ce0-1c0b6a439d87.mp4 - https://youtu.be/X3F6mhJtjGY
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_0e808faa-5d46-4376-96b3-287e331bae18.mp4 - https://youtu.be/Jh4BYvZBUSU
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_3b31c958-8ce4-4ef7-9f69-deed011d5e72.mp4 - https://youtu.be/OSbGJUVIjNQ
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_a189f830-53ef-4780-9672-11fe2d46098b.mp4 - https://youtu.be/-M7taIe7Xno
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_5edd5039-d71e-418d-b44d-8fe308bf12da.mp4 - https://youtu.be/7-AVtYgyNT4
+ERROR: Instagram upload failed: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_2dc28017-4cb0-4735-9588-69852cab2e7f.mp4 - https://youtu.be/pvMJ1hw7NG4
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_6d620d4e-842c-4337-93f3-07171b5cfe8a.mp4 - https://youtu.be/gZecvbbdcLY
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_75cc130b-de06-423a-9d32-acd7e2bb20b5.mp4 - https://youtu.be/s_BHH-phMCk
+ERROR: Instagram upload failed: ConnectionError HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/launcher/sync/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='i.instagram.com', port=443): Read timed out. (read timeout=None)"))
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_7180ce2d-b55c-42ca-a006-b7e21f17802e.mp4 - https://youtu.be/Kl2y9kayIk0
+ERROR: Instagram upload failed: ConnectionError HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/launcher/sync/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='i.instagram.com', port=443): Read timed out. (read timeout=None)"))
+ERROR: Instagram upload failed: ConnectionError HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/launcher/sync/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='i.instagram.com', port=443): Read timed out. (read timeout=None)"))
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_b9c34b7d-4a7b-48d6-8b9d-1f01088afb87.mp4 - https://youtu.be/Ym2auiFiDvY
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_1d6267d9-5e47-4649-b353-a33e34fbfdae.mp4 - https://youtu.be/lKGIXnMA6mE
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_436ae384-5bf6-490e-b3db-054a2c49a180.mp4 - https://youtu.be/8MYK5ismyIQ
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_c107051b-cd5c-4194-b416-17a37a447d76.mp4 - https://youtu.be/OxaB1zp8oG4
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_2518e69f-3b7c-43e3-addf-44569cd6e81d.mp4 - https://youtu.be/iqU62pfj3p8
+SUCCESS: YouTube upload C:\Users\derka\Desktop\my_miner\static\reels\reel_3a1c9505-cc6e-45d3-8f0b-afc4a0d8c633.mp4 - https://youtu.be/nZeULCDb8hA
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+
+ERROR: YouTube direct upload failed: Init failed: {
+  "error": {
+    "code": 400,
+    "message": "The user has exceeded the number of videos they may upload.",
+    "errors": [
+      {
+        "message": "The user has exceeded the number of videos they may upload.",
+        "domain": "youtube.video",
+        "reason": "uploadLimitExceeded"
+      }
+    ]
+  }
+}
+

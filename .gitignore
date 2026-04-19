@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# База данных
+*.db
+
+# Папки с видео и музыкой (не загружаем на гитхаб тяжелые файлы)
+static/videos/*
+static/reels/*
+!static/videos/.gitkeep
+!static/reels/.gitkeep
+
+# Логи
+*.log

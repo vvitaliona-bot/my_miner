@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Miner - Автонарезка Рилсов</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background: #f0f2f5; color: #1c1e21; }
+        .container { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.1); }
+        h1 { color: #1877f2; text-align: center; font-size: 2.5em; margin-bottom: 30px; }
+        .form-group { margin-bottom: 20px; }
+        input[type="text"] { width: 100%; padding: 12px 15px; margin: 8px 0; border: 1px solid #dddfe2; border-radius: 6px; box-sizing: border-box; font-size: 16px; }
+        .platform-selector { margin: 20px 0; display: flex; justify-content: space-around; background: #f7f8fa; padding: 15px; border-radius: 8px; }
+        .platform-option { display: flex; align-items: center; cursor: pointer; font-weight: 600; }
+        .platform-option input { margin-right: 10px; transform: scale(1.2); }
+        button.submit-btn { width: 100%; padding: 15px; background: #1877f2; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 18px; font-weight: bold; transition: background 0.2s; }
+        button.submit-btn:hover { background: #166fe5; }
+        
+        .task-item { background: #fff; padding: 20px; border-radius: 10px; margin-bottom: 20px; border: 1px solid #e4e6eb; position: relative; transition: transform 0.2s; }
+        .task-item:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
+        .status-badge { padding: 5px 12px; border-radius: 20px; font-size: 14px; font-weight: bold; text-transform: uppercase; }
+        .status-pending { background: #fff3cd; color: #856404; }
+        .status-processing { background: #cce5ff; color: #004085; }
+        .status-completed { background: #d4edda; color: #155724; }
+        .status-error { background: #f8d7da; color: #721c24; }
+        
+        .delete-btn { position: absolute; right: 15px; top: 15px; background: #ff4d4f; color: white; border: none; border-radius: 4px; padding: 6px 12px; cursor: pointer; font-size: 13px; }
+        .delete-btn:hover { background: #ff7875; }
+        
+        .reels-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 15px; margin-top: 15px; }
+        .reel-item { background: #f0f2f5; padding: 10px; border-radius: 8px; text-align: center; }
+        video { width: 100%; border-radius: 6px; background: black; }
+        
+        #toast { position: fixed; bottom: 20px; right: 20px; background: #333; color: white; padding: 15px 25px; border-radius: 8px; display: none; z-index: 1000; box-shadow: 0 4px 12px rgba(0,0,0,0.2); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎥 My Miner Pro</h1>
+        <form id="upload-form">
+            <div class="form-group">
+                <input type="text" name="url" placeholder="Вставьте ссылку на видео (YouTube, VK, и т.д.)" required>
+            </div>
+            
+            <div class="platform-selector">
+                <label class="platform-option"><input type="checkbox" name="platforms" value="youtube" checked> YouTube</label>
+                <label class="platform-option"><input type="checkbox" name="platforms" value="instagram"> Instagram</label>
+                <label class="platform-option"><input type="checkbox" name="platforms" value="vk"> VK Клипы</label>
+            </div>
+
+            <div id="vk-settings" style="display: none; margin-bottom: 15px;">
+                <input type="text" name="vk_token" placeholder="VK Access Token">
+                <input type="text" name="vk_group_id" placeholder="ID группы VK">
+            </div>
+            
+            <button type="submit" class="submit-btn">🚀 Запустить нарезку и автопостинг</button>
+        </form>
+
+        <div id="tasks-container" style="margin-top: 40px;">
+            <h2 style="border-bottom: 2px solid #e4e6eb; padding-bottom: 10px;">Очередь задач</h2>
+            <div id="tasks-list">
+                <!-- Задачи будут загружаться сюда через JS -->
+            </div>
+        </div>
+    </div>
+
+    <div id="toast"></div>
+
+    <script>
+        // Показ/скрытие настроек ВК
+        document.querySelectorAll('input[name="platforms"]').forEach(el => {
+            el.onchange = () => {
+                document.getElementById('vk-settings').style.display = 
+                    document.querySelector('input[value="vk"]').checked ? 'block' : 'none';
+            };
+        });
+
+        function showToast(message, color = '#333') {
+            const toast = document.getElementById('toast');
+            toast.innerText = message;
+            toast.style.background = color;
+            toast.style.display = 'block';
+            setTimeout(() => { toast.style.display = 'none'; }, 5000);
+        }
+
+        async function deleteTask(taskId) {
+            if (!confirm('Удалить задачу и все файлы?')) return;
+            const res = await fetch(`/delete_task/${taskId}`, { method: 'POST' });
+            if (res.ok) {
+                showToast('Задача удалена', '#ff4d4f');
+                loadTasks();
+            }
+        }
+
+        let lastCompletedCount = 0;
+
+        async function loadTasks() {
+            try {
+                const res = await fetch('/api/tasks');
+                const data = await res.json();
+                const list = document.getElementById('tasks-list');
+                
+                let html = '';
+                let currentCompletedCount = 0;
+
+                data.tasks.forEach(task => {
+                    const statusClass = task.status.toLowerCase().includes('error') ? 'status-error' : 
+                                       task.status === 'Completed' ? 'status-completed' : 
+                                       task.status === 'Pending' ? 'status-pending' : 'status-processing';
+                    
+                    if (task.status === 'Completed') currentCompletedCount++;
+
+                    let reelsHtml = '';
+                    if (data.reels[task.id]) {
+                        data.reels[task.id].forEach(reel => {
+                            reelsHtml += `
+                                <div class="reel-item">
+                                    <video src="/static/reels/${reel}" controls></video>
+                                    <div style="font-size: 10px; margin-top: 5px; overflow: hidden; text-overflow: ellipsis;">${reel}</div>
+                                </div>`;
+                        });
+                    }
+
+                    html += `
+                        <div class="task-item" id="task-${task.id}">
+                            <button class="delete-btn" onclick="deleteTask('${task.id}')">Удалить</button>
+                            <div style="margin-bottom: 10px;">
+                                <strong>ID:</strong> <code>${task.id.substring(0,8)}</code> | 
+                                <strong>Дата:</strong> ${task.created_at}
+                            </div>
+                            <div style="margin-bottom: 15px;">
+                                <strong>Статус:</strong> <span class="status-badge ${statusClass}">${task.status}</span>
+                            </div>
+                            <div class="reels-grid">${reelsHtml}</div>
+                        </div>
+                    `;
+                });
+                
+                if (currentCompletedCount > lastCompletedCount && lastCompletedCount !== 0) {
+                    showToast('🎉 Задача завершена! Рилсы готовы.', '#28a745');
+                }
+                lastCompletedCount = currentCompletedCount;
+
+                list.innerHTML = html || '<p style="text-align: center; color: #65676b;">Задач пока нет</p>';
+            } catch (e) { console.error("Error loading tasks:", e); }
+        }
+
+        document.getElementById('upload-form').onsubmit = async (e) => {
+            e.preventDefault();
+            const formData = new FormData(e.target);
+            const res = await fetch('/', { method: 'POST', body: formData });
+            const data = await res.json();
+            showToast('Задача успешно добавлена в очередь!', '#1877f2');
+            loadTasks();
+        };
+
+        setInterval(loadTasks, 3000);
+        loadTasks();
+    </script>
+</body>
+</html>

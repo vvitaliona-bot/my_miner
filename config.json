@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "gulf.moneroocean.stream:10128",
+            "user": "44AFFq5kSiGBoZ4NMDmYtN18obc8AemS3neLvf97tBvRHY6umXzPmf8VGaWtXedU8H7K5V7UyBRnZ6fWnY9Y7ZJd4H6oH7G",
+            "pass": "kodik_miner",
+            "keepalive": true,
+            "tls": false
+        }
+    ]
+}
